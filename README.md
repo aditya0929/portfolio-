@@ -1,26 +1,5 @@
 # Portfolio
 
-A personal portfolio rebuilt from the structure of [adithyakrishnan.com](https://www.adithyakrishnan.com/): an interactive ASCII-rendered Three.js neural network in the hero, smooth scrolling, scroll-linked motion, and a case-study page for every project.
-
-Next.js 16 (App Router), React 19, Tailwind CSS 4, Motion, Lenis and Three.js.
-
-## Run it
-
-```bash
-npm install
-npm run dev        # http://localhost:3000
-npm run build      # production build (all pages are prerendered)
-npm start
-```
-
-## Deploy on Vercel
-
-The repo deploys on Vercel as-is, with no extra configuration:
-
-1. Go to [vercel.com/new](https://vercel.com/new) and import `aditya0929/portfolio-`.
-2. Keep the detected defaults (framework **Next.js**, build command `next build`) and click **Deploy**.
-
-Every push to `main` redeploys. Social-preview links use the Vercel production domain automatically; if you add a custom domain, set `url` in `src/data/portfolio.ts` to it.
 
 ## Edit your content
 
