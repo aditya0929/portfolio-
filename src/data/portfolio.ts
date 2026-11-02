@@ -173,7 +173,7 @@ export const site: Site = {
   education: [
     {
       title: "B.Tech in Computer Science and Engineering",
-      company: "Vellore Institute of Technology, Bhopal",
+      company: "Vellore Institute of Technology",
       period: "2022 - 2026",
       note: "CGPA: 9.11 / 10",
     },
